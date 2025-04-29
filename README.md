@@ -23,3 +23,7 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 👉 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
 
 and many more, including code architecture and reusability
+
+
+
+Live - https://zentry-clone-five-gamma.vercel.app/
